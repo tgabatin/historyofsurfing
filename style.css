@@ -1,0 +1,26 @@
+body {
+  color: yellow;
+  font-family: sans-serif, 'Oswald';
+}
+
+h1 {
+  text-align: center;
+}
+
+#Kelly {
+  float:left;
+  width: 200px;
+  height: 200px;
+}
+
+.left {
+
+}
+
+.right {
+
+}
+
+.center {
+
+}
